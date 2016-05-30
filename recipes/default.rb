@@ -9,5 +9,5 @@ git "/Users/jjasghar/.emacs.d" do
   reference "master"
   user "jjasghar"
   group "staff"
-  action :sync
+  action :checkout
 end
