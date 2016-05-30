@@ -1,0 +1,7 @@
+name 'jj-mac-bootstrap'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures jj-mac-bootstrap'
+long_description 'Installs/Configures jj-mac-bootstrap'
+version '0.1.0'
